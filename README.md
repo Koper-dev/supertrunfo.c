@@ -1,2 +1,0 @@
-# supertrunfo.c
-Projeto faculdade
